@@ -1,5 +1,5 @@
 # software_Task
-# 🚀 CanSat Ground Control Station
+# CanSat Ground Control Station
 
 A Python-based Ground Control Station (GCS) developed using **PyQt5** for monitoring and visualizing CanSat telemetry data in real time. The application provides an interactive dashboard with live graphs and mission control features.
 
