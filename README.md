@@ -37,8 +37,7 @@ python main.py
 ```
 
 ## Application Preview
-
-![Ground Control Station](Images/ground control station.png)
+![Ground Control Station](Images/gorund%20control%20station.png)
 
 ## Skills Demonstrated
 
