@@ -25,6 +25,7 @@ A Python-based Ground Control Station (GCS) developed using **PyQt5** for monito
 ├── main.py
 ├── trial_data.csv
 ├── Logo2.png
+├── ground control station.png
 └── README.md
 ```
 
@@ -37,7 +38,7 @@ python main.py
 
 ## Screenshots
 
-Add screenshots of the dashboard and graphs in the `Images` folder.
+ground control station.png
 
 ## Skills Demonstrated
 
