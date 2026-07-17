@@ -36,8 +36,6 @@ pip install pyqt5 matplotlib pandas
 python main.py
 ```
 
-## Screenshots
-
 ## Application Preview
 
 ![Ground Control Station](Images/ground_control_station.png)
